@@ -1,0 +1,8 @@
+{
+  "name": "wafa-portfolio",
+  "version": "1.0.0",
+  "description": "Wafa Khan Portfolio - Figma Make Site",
+  "scripts": {
+    "build": "echo 'No build step needed for static site'"
+  }
+}
